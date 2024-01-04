@@ -1,0 +1,1 @@
+This social media application features a user-friendly design with two distinct views and follows the MVVM (Model-View-ViewModel) architecture. It showcases online users along with their last seen times and provides access to user profiles.
